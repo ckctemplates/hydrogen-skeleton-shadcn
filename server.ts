@@ -1,4 +1,4 @@
-// Virtual entry point for the app
+// Virtual entry point for the apps
 import * as remixBuild from '@remix-run/dev/server-build';
 import {
   cartGetIdDefault,
